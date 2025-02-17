@@ -13,11 +13,12 @@ Sabit bir metin üzerinde iki işlem yapılır:
 [::-1] dilimi ile metnin tersten yazılması sağlanır.
 replace() metodu ile "programlama" kelimesi "kodlama" ile değiştirilir.
 
-#Kullanım
+## Kullanım
 Projeyi çalıştırmak için Python 3.x sürümünün yüklü olması gerekmektedir. Program çalıştırıldığında, kullanıcıdan giriş alınarak belirtilen string manipülasyonları uygulanacak ve sonuçlar ekrana yazdırılacaktır.
 
 Görev 1:
 Kullanıcıdan bir metin girmesi istenir.
 Metin üzerinde büyük harfe dönüştürme, baş ve sondaki boşlukları silme, harf değiştirme ve kelimelere ayırma işlemleri gerçekleştirilir.
+
 Görev 2:
 Sabit bir metin üzerinden tersine çevrilmiş hali ve belirli kelimelerin değiştirilmiş hali ekrana yazdırılır.
